@@ -1,2 +1,2 @@
 # seqprover.pl
-Naoyuki Tamura's prove
+Naoyuki Tamura's prover
